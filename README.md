@@ -1,4 +1,4 @@
-C# Console App. ile geliştirilmiş Havayolu şirketi koltuk rezervasyonu uygulamasıdır. 5 koltuk Business sınıfına, 15 koltuk Ekonomi sınıfına aittir.
+C# Console App. ile geliştirilmiş Havayolu şirketi koltuk rezervasyonu uygulamasıdır. 5 koltuk Business sınıfına, 15 koltuk Ekonomi sınıfına aittir.<br />
 Uygulama Açıklaması: <br />
 1- Ekonomi ve Business sınıf seçeneği sorulmakta ve boş koltuklar listelenmekte,<br />
 2- Eğer seçilen sınıfa ait tüm koltuklar dolu ise kullanıcı boş koltuk yoktur uyarısı alacaktır.<br />
